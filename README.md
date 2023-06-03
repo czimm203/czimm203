@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @czimm203
-- 👀 I’m interested in python, weather and weather data
-- 🌱 I mostly tinker with python to dig into data or make silly tools.
+I'm @czimm203. I'm a meteorologist interested in weather and weather data. I mostly use python and go, but have dipped my toes into c/cpp-land from time to time.
 
 <!---
 czimm203/czimm203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
